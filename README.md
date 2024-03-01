@@ -1,5 +1,5 @@
 # Skirt per VZBot 330 β
-Skirt disegnato per vzbot, per ospitare elettronica e sistema z voron
+Skirt disegnato per voron bot, per ospitare elettronica e sistema z voron
 
 ![1](/images/gantry_frontale.jpg)
 ![2](/images/lato_ventola.jpg)
