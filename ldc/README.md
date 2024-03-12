@@ -1,7 +1,7 @@
 # Supporto LCD per VZBot 330 β
 Supporto LDC per voron bot, versione rivista e ottimizata.
 
-![1](//images/voron_bot_330_lcd)
+![1](/images/voron_bot_330_lcd.jpg)
 
 DISCLAIMER: Questa è una mod impegnativa e molte di queste cose devono  subire ulteriori test.
 
