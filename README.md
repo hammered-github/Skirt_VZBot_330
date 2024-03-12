@@ -1,8 +1,8 @@
 # Skirt per VZBot 330 β
 Skirt disegnato per voron bot, per ospitare elettronica e sistema z voron
 
-![1](/images/gantry_frontale.jpg)
-![2](/images/lato_ventola.jpg)
+![1](/images/voron_bot_330.jpg)
+![2](/images/voron_bot_330_skirt.jpg)
 
 DISCLAIMER: Questa è una mod impegnativa e molte di queste cose devono  subire ulteriori test.
 
